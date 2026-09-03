@@ -67,13 +67,9 @@ TwoScaleABM-RL/
 │   ├── saved_rollout_<variant>_R0_<R0tag>_<policytag>_100runs/
 │   └── saved_rollout_<variant>_R0_<R0tag>_dualpool_costonly_theta_<thetaTag>_100runs/
 │
-├── source_data/
-│   ├── main_figures/
-│   └── supplementary_figures/
-│
-└── figures/
-    ├── final_results_restructured/
-    └── supplementary/
+└── source_data/
+    ├── main_figures/
+    └── supplementary_figures/
 ```
 
 ### Directory roles
