@@ -57,7 +57,6 @@ The recommended repository layout is:
 TwoScaleABM-RL/
 │
 ├── README.md
-├── LICENSE
 │
 ├── code/
 │   ├── Result_plot_final_figures.m
